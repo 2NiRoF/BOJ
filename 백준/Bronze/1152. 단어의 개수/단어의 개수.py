@@ -1,3 +1,1 @@
-string = input()
-words = [x for x in string.split()]
-print(len(words))
+print(len(input().split()))
